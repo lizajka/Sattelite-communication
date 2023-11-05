@@ -1,0 +1,2 @@
+1. We made suggested changes in the Report. 
+2. We removed the bugs from our code.
